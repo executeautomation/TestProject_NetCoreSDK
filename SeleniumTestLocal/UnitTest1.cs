@@ -9,7 +9,7 @@ namespace SeleniumTestLocal
     public class UnitTest1
     {
 
-        private static string DevToken = "U--LKi5tve35kNidu4uRp5IzAWrhL7PNVp3jEn4Y55U1";
+        private static string DevToken = "<Paste your own token here>";
         private static AutomatedBrowserType BrowserType = AutomatedBrowserType.Chrome;
 
 
